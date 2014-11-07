@@ -24,3 +24,9 @@ def say_hello(name):
   print 'hello ' + name
 ```
 
+### Resources
+* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
+* [Python Docs](https://docs.python.org/2.7/)
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Scrapy](http://scrapy.org/)
+* [Casper](http://casperjs.org/)
