@@ -41,7 +41,7 @@ import urllib
 from bs4 import BeautifulSoup
 
 url = 'http://alibaba.com/catalogs/products/CID100003006'
-data = urllib.urlopen(start_url).read()
+data = urllib.urlopen(url).read()
 soup = BeautifulSoup(data)
 
 for link in soup.select('a'):
