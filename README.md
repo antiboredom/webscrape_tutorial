@@ -9,7 +9,7 @@ Otherwise, [download BeautifulSoup here](http://www.crummy.com/software/Beautifu
 
 ### Python Basics
 
-Create a strings:
+Create a string:
 `activity = 'scraping'`
 
 Create an integer:
